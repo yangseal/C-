@@ -1,2 +1,2 @@
-# C_plus
+# C++
 This is some examples of C++
